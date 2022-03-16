@@ -78,7 +78,7 @@ coef.stepSplitReg <- function(object, group_index = NULL, ...){
       
       final_coef <- numeric(length(object$betas[[1]]) + 1)
       for(model.ind in group_index)
-         final_coef <- final_coef + c(object$intercepts[[model.ind]], object$betas[[model.ind]]) * object$models_weights[[model.ind]]
+         final_coef <- final_coef + c(object$intercepts[[model.ind]], object$betas[[model.ind]]) * object$models_weights[[model.ind]] / sum(object$models_weights[group_index])
       return(final_coef)
    }
 }
@@ -163,7 +163,7 @@ coef.cv.stepSplitReg <- function(object, group_index = NULL, ...){
       
       final_coef <- numeric(length(object$betas[[1]]) + 1)
       for(model.ind in group_index)
-         final_coef <- final_coef + c(object$intercepts[[model.ind]], object$betas[[model.ind]]) * object$models_weights[[model.ind]]
+         final_coef <- final_coef + c(object$intercepts[[model.ind]], object$betas[[model.ind]]) * object$models_weights[[model.ind]] / sum(object$models_weights[group_index])
       return(final_coef)
    }
 }

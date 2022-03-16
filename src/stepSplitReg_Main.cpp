@@ -64,7 +64,7 @@ Rcpp::List Stepwise_Split(arma::mat x,
     // Variables used to store the optimal model
     arma::vec models_rss_decrease(n_models);
     arma::vec models_p_val(n_models);
-    arma::uword optimal_model;
+    arma::uword optimal_model = 0;
 
     // Variable to store index of optimal variable (for the optimal model) from the candidates
     arma::uvec index_optimal(1);
@@ -202,7 +202,7 @@ Rcpp::List CV_Stepwise_Split(arma::mat x,
         arma::uword n_models_cv = n_models[model_ind];
         
         // Split Stepwise over the folds (with parallelization)
-        # pragma omp parallel for num_threads(n_threads)
+        // # pragma omp parallel for num_threads(n_threads)
         for (arma::uword fold = 0; fold < n_folds; fold++) {
             
             // Get test and training samples

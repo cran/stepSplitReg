@@ -1,8 +1,8 @@
-d772978bf09dde8793b441c4968f9999 *DESCRIPTION
+71cc5ef8a131c01861b8da28d84ca5cb *DESCRIPTION
 23221f0900e8f0b40a20d31509655c0f *NAMESPACE
-cdbf4fdbf74e915334c1b28ccd57aa9f *NEWS
+04f2bc0cbe1fa664a5c88a752c632c09 *NEWS
 9b195deabed0a64cf3681a5a55ea0292 *R/CV_stepSplitReg.R
-584a7ac749bcb133f933677d1453a9d4 *R/Coefficients.R
+0ce3a95a23e8fe90f6c195dad7cfb379 *R/Coefficients.R
 a4b2258c277120dfd5af5742e2c8263d *R/Create_Folds.R
 66efdb1a5252c9fda3d2e5efa5124477 *R/Data_Check.R
 88ed70933ce6ddd2d9424b4c472fa9b8 *R/Predictions.R
@@ -20,7 +20,7 @@ dc9c236984b5b6327419e2d6fd158e8d *man/coef.cv.stepSplitReg.Rd
 2f8156c25ad728fcd43120585b2eb191 *man/predict.cv.stepSplitReg.Rd
 e2b81b66a5abe6af08501909e60aa52f *man/predict.stepSplitReg.Rd
 dc6b00d2691c4d3bf890dd3541ca3ccd *man/stepSplitReg.Rd
-c3d5ec89f8ad3cd322258aee880908c2 *src/CV_WEN.cpp
+e642e5e8e04a6f783cb5c7aa4a0e80bc *src/CV_WEN.cpp
 ce018a84ce24dbfb4281df3fa1322828 *src/CV_WEN.hpp
 85be732224bfbb77fc2c2a8341b15836 *src/Makevars.in
 01928104d4b57c82d4195b21f02b6b26 *src/Makevars.win
@@ -29,12 +29,12 @@ ce018a84ce24dbfb4281df3fa1322828 *src/CV_WEN.hpp
 3f95b19db5c9e47e85f2935f84dbdfe9 *src/Model_Functions.hpp
 33ddcaf16a23a8a914f995659dc2ce66 *src/RcppExports.cpp
 70d6a04e2605694c6d1804f1df533e10 *src/Set_Diff.hpp
-03781762c313723ea9cfc2a71e27cac2 *src/WEN.cpp
+6e2424ef208b9b8964ba746bff17faaa *src/WEN.cpp
 915f7e25860342ec2221c0d083632c29 *src/WEN.hpp
 ac8059e1027d1c8902921029cef507b0 *src/autoconfig.h
 5045ae3e48cde1910f87c194f2aeacf3 *src/autoconfig.h.in
 ac8059e1027d1c8902921029cef507b0 *src/autoconfig.win.h
 3e0eb991155a4d7e1fdee28341c92791 *src/config.h
-402868cce55829672ad7cd73876f8710 *src/stepSplitReg_Main.cpp
+cd041caa66937bdb23e7d0143a32b29a *src/stepSplitReg_Main.cpp
 34a94ddd48bab42e163035444d1cbf3e *tests/testthat.R
 430210147379b11c1828aaa166d3b3dc *tests/testthat/test_cv_function.R

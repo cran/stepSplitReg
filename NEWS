@@ -1,2 +1,6 @@
 # stepSplitReg 1.0.0
 * Initial stable release of package.
+
+# stepSplitReg 1.0.1
+* Fix valgrind error.
+* Fix coefficient method.
