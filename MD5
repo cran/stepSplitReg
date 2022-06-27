@@ -1,6 +1,6 @@
-71cc5ef8a131c01861b8da28d84ca5cb *DESCRIPTION
+91445a9d04df251fc1d3d3933bb8cd2c *DESCRIPTION
 23221f0900e8f0b40a20d31509655c0f *NAMESPACE
-04f2bc0cbe1fa664a5c88a752c632c09 *NEWS
+16c267dfe8e61bcdfd9c042e62ca527e *NEWS
 9b195deabed0a64cf3681a5a55ea0292 *R/CV_stepSplitReg.R
 0ce3a95a23e8fe90f6c195dad7cfb379 *R/Coefficients.R
 a4b2258c277120dfd5af5742e2c8263d *R/Create_Folds.R
@@ -24,7 +24,7 @@ e642e5e8e04a6f783cb5c7aa4a0e80bc *src/CV_WEN.cpp
 ce018a84ce24dbfb4281df3fa1322828 *src/CV_WEN.hpp
 85be732224bfbb77fc2c2a8341b15836 *src/Makevars.in
 01928104d4b57c82d4195b21f02b6b26 *src/Makevars.win
-1d1ab64aea36a8e473b3078b2c5901fe *src/Model.cpp
+f0a16313e1908cce3d2fe6ecb811bba1 *src/Model.cpp
 3d1460b8a70f355fb91512bc95db3a6a *src/Model.hpp
 3f95b19db5c9e47e85f2935f84dbdfe9 *src/Model_Functions.hpp
 33ddcaf16a23a8a914f995659dc2ce66 *src/RcppExports.cpp
@@ -35,6 +35,6 @@ ac8059e1027d1c8902921029cef507b0 *src/autoconfig.h
 5045ae3e48cde1910f87c194f2aeacf3 *src/autoconfig.h.in
 ac8059e1027d1c8902921029cef507b0 *src/autoconfig.win.h
 3e0eb991155a4d7e1fdee28341c92791 *src/config.h
-cd041caa66937bdb23e7d0143a32b29a *src/stepSplitReg_Main.cpp
+10dbecf38419ba7378e85740eb3cbff7 *src/stepSplitReg_Main.cpp
 34a94ddd48bab42e163035444d1cbf3e *tests/testthat.R
 430210147379b11c1828aaa166d3b3dc *tests/testthat/test_cv_function.R
