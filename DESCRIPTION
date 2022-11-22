@@ -1,8 +1,8 @@
 Package: stepSplitReg
 Type: Package
 Title: Stepwise Split Regularized Regression
-Version: 1.0.2
-Date: 2022-06-26
+Version: 1.0.3
+Date: 2022-11-21
 Authors@R: c(person("Anthony", "Christidis", role=c("aut", "cre"), email = "anthony.christidis@stat.ubc.ca"),
 	     person("Stefan", "Van Aelst", role=c("aut"), email = "stefan.vanaelst@kuleuven.be"),
 	     person("Ruben", "Zamar", role=c("aut"), email = "ruben@stat.ubc.ca"))
@@ -18,10 +18,10 @@ Suggests: testthat, mvnfast
 LinkingTo: Rcpp, RcppArmadillo
 RoxygenNote: 7.1.1
 NeedsCompilation: yes
-Packaged: 2022-06-27 03:08:10 UTC; antho
+Packaged: 2022-11-21 23:49:55 UTC; antho
 Author: Anthony Christidis [aut, cre],
   Stefan Van Aelst [aut],
   Ruben Zamar [aut]
 Maintainer: Anthony Christidis <anthony.christidis@stat.ubc.ca>
 Repository: CRAN
-Date/Publication: 2022-06-27 03:20:02 UTC
+Date/Publication: 2022-11-22 09:10:02 UTC

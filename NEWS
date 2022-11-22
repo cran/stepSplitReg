@@ -8,3 +8,6 @@
 # stepSplitReg 1.0.2
 * Fix model selection criteria.
 * Add multithreading for cross-validation function.
+
+# stepSplitReg 1.0.3
+* Removed invalid UTF-8 characters.
