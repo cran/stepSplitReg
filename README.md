@@ -1,8 +1,8 @@
 
 [![Build
 Status](https://app.travis-ci.com/AnthonyChristidis/stepSplitReg.svg?branch=master)](https://app.travis-ci.com/AnthonyChristidis/stepSplitReg)
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/stepSplitReg)](https://cran.r-project.org/package=stepSplitReg)
-[![Downloads](http://cranlogs.r-pkg.org/badges/stepSplitReg)](https://cran.r-project.org/package=stepSplitReg)
+[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/stepSplitReg)](https://cran.r-project.org/package=stepSplitReg)
+[![Downloads](https://cranlogs.r-pkg.org/badges/stepSplitReg)](https://cran.r-project.org/package=stepSplitReg)
 
 # stepSplitReg
 
