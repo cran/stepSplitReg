@@ -11,3 +11,9 @@
 
 # stepSplitReg 1.0.3
 * Removed invalid UTF-8 characters.
+
+# stepSplitReg 1.0.4
+* Fix package test error.
+
+# stepSplitReg 1.0.5
+* Fixed bashisms in configure files.

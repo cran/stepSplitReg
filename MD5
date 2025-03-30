@@ -1,6 +1,6 @@
-ce65d49b7011990c6f481144840ee8f3 *DESCRIPTION
+f29bd953d1eb165c604e29a85eaf4724 *DESCRIPTION
 23221f0900e8f0b40a20d31509655c0f *NAMESPACE
-ae24a1a36419dfcd64df3a3a3652e0ef *NEWS
+7d0d1568953e7447aaeaa8604aaa80cd *NEWS
 9b195deabed0a64cf3681a5a55ea0292 *R/CV_stepSplitReg.R
 0ce3a95a23e8fe90f6c195dad7cfb379 *R/Coefficients.R
 a4b2258c277120dfd5af5742e2c8263d *R/Create_Folds.R
@@ -11,8 +11,8 @@ b413fe89c45da35256ebdb9ea462d63d *R/Stacking.R
 ec81ac221b9e4fafd8ba5078364ac298 *R/stepSplitReg.R
 2a67d7b27803c39a774385cf92386f3c *README.md
 ccdbb882c645f67f951535d26054e50e *cleanup
-f7380e3af5dfa399e15b0db7201a8957 *configure
-15a8c39dc6b6bfdf73747ef974ee497e *configure.ac
+7b2a01b2b3bcaeec1c33557963212a4b *configure
+fd752e3c17928d555bccffdd14b10d1b *configure.ac
 e5ce541c21cd81c6e9f39a854c63cbee *configure.win
 dc9c236984b5b6327419e2d6fd158e8d *man/coef.cv.stepSplitReg.Rd
 7d334e5228fcadd1c17cae160b689312 *man/coef.stepSplitReg.Rd
